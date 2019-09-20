@@ -1,50 +1,5 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "code": "ml",
-      "title": "Matcha Latte",
-      "description": "Matcha Latte Powder",
-      "availableSizes": ["250gr", "1500gr"],
-      "price": 10,
-      "isFreeShipping": true
-    },
-
-    {
-      "id": 2,
-      "code": "pc",
-      "title": "Pure Cocoa",
-      "description": "Pure Cocoa Powder",
-      "availableSizes": ["100gr", "200gr", "1000gr"],
-      "price": 15,
-      "isFreeShipping": true
-    },
-    {
-      "id": 3,
-      "code": "pmc",
-      "title": "Premium Pure Matcha",
-      "description": "Premium Pure Matcha Powder",
-      "availableSizes": ["100gr", "500gr", "1000gr"],
-      "price": 20,
-      "isFreeShipping": true
-    },
-    {
-      "id": 4,
-      "code": "rv",
-      "title": "Red Velvet Latte",
-      "description": "Red Velvet Latte Powder",
-      "availableSizes": ["250gr", "1500gr"],
-      "price": 25,
-      "isFreeShipping": true
-    },
-    {
-      "id": 5,
-      "code": "tl",
-      "title": "Taro Latte",
-      "description": "Taro Latte Powder",
-      "availableSizes": ["250gr", "1500gr"],
-      "price": 30,
-      "isFreeShipping": true
-    }
-  ]
-}
+{"products": [{"id": 1,"code": "ml","title": "Matcha Latte","description": "Matcha Latte Powder","availableSizes": ["250gr", "1500gr"],"price": 10,"isFreeShipping": true},
+{"id": 2,"code": "pc","title": "Pure Cocoa","description": "Pure Cocoa Powder","availableSizes": ["100gr", "200gr", "1000gr"],"price": 15,"isFreeShipping": true},
+{"id": 3,"code": "pmc","title": "Premium Pure Matcha","description": "Premium Pure Matcha Powder","availableSizes": ["100gr", "500gr", "1000gr"],"price": 20,"isFreeShipping": true},
+{"id": 4,"code": "rv","title": "Red Velvet Latte","description": "Red Velvet Latte Powder","availableSizes": ["250gr", "1500gr"],"price": 25,"isFreeShipping": true},
+{"id": 5,"code": "tl","title": "Taro Latte","description": "Taro Latte Powder","availableSizes": ["250gr", "1500gr"],"price": 30,"isFreeShipping": true}]}
